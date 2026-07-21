@@ -1,0 +1,6 @@
+sagemaker==2.251.1
+boto3
+pandas
+scikit-learn
+joblib
+openpyxl
